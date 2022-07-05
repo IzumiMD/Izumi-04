@@ -10,46 +10,46 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
-global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.owner = ['6285921165857']
+global.pengguna = 'Christian ID'
+global.premium = ['6285657452524']
+global.author = 'Christian ID'
+global.pemilik = ['6285921165857'] 
+global.ownernomer = '6285921165857'
+global.ownername = 'Christian ID'
+global.botname = 'Izumi - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6285921165857'
+global.footer = 'Izumi MD 2022'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Christian ID' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
+global.yt = 'https://www.youtube.com/c/christianid99' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/chris.tianid'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.dana = 'Minta Owner'
+global.gopay = 'Minta Owner'
+global.wame = 'wa.me/6285921165857'
+global.email = 'izumimultidevice@gmail.com'
 global.region = 'Indonesia'
-global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.link = 'https://christian-id-api.herokuapp.com/docs'
+global.sc = 'https://www.youtube.com/c/christianid99'
+global.packname = '"{\nAuthor: Christian ID"\n"Bot Number: 6283897720020"\n"Bot Name: Izumi - MD"\n"Instagram: @chris.tianid"\n}' 
 global.author = '' 
 global.sessionName = 'session'
-global.prefa = ['#','!','/','']
+global.prefa = ['#','!','/','.','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Done Your Request',
+    success: '*_Done By Izumi Bot_*',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '*_Tunggu Sebentar Yah Kak, Permintaanmu Sedang Diproses_*',
     error: 'Fitur sedang error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
@@ -394,9 +394,10 @@ global.ccomannya = `
  » robot
  » slow
  » tupai
-`
+
+\`\`\`Izumi Bot Version 3.0.0\`\`\``
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 5K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 25K_\n   _• Sewa Bot Permanen : Bikin Sendiri Aja_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
